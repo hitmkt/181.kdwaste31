@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://kdwaste31.qustmddus.com/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
